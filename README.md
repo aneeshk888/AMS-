@@ -1,24 +1,27 @@
-Attendance Marking System in C++
-
-comments
+### Attendance Marking System in C++:
 An Attendance Marking System is a simple console-based application to manage and monitor attendance records efficiently. In this project, we will create a C++ program that allows administrators to mark attendance and students/employees to view their attendance status.
 
-Features
+### Features
 Our attendance system will provide the following features:
 
-Teacher Dashboard (Password-Protected):
+# Teacher Dashboard (Password-Protected):
 Add New Student
 Mark Attendance
 Display All Records
-Student Dashboard:
+
+
+# Student Dashboard:
 View Own Attendance Status
 Project Requirements
 The following C++ concepts are required:
 
+```
 C++ Fundamentals
 Functions and Compound Data Types
 Dynamic Memory Allocation
 Additionally, you need a working C++ environment such as g++, clang++, or an IDE like Code::Blocks or Visual Studio Code.
+```
+
 
 Implementation
 Let’s break the implementation into steps:
